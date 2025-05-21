@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikeyatheDev
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Linkedin
+- 💞️ I’m looking to collaborate on Linkedin/Internshala.
 - 📫 Reach me at my mail/Ph.No
 - 😄 Pronouns: He/Him
 
