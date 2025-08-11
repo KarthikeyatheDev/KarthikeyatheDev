@@ -8,6 +8,10 @@ Interests 👀
 
 I'm particularly interested in Artificial Intelligence (AI) and Machine Learning (ML), with a keen eye on their practical applications and future advancements.
 
+Fun Fact About me 🎉
+
+I love to watch Anime, read manga , manhwa and manhwa . I am about to venture into the world of Novels as well.
+
 Current Learning 🌱 
 
 I'm currently expanding my expertise by diving deep into the fascinating world of Computer Vision, exploring techniques for image processing, object detection, and neural network architectures.
