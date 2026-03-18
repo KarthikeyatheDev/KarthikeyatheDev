@@ -10,7 +10,7 @@ I'm particularly interested in Artificial Intelligence (AI) and Machine Learning
 
 Fun Fact About me 🎉
 
-I love to watch Anime, read manga , manhwa and manhwa . I am about to venture into the world of Novels as well.
+I love to watch Anime, read manga , manhwa and manhua . I am about to venture into the world of Novels as well.
 
 Current Learning 🌱 
 
