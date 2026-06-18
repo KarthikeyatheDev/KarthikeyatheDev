@@ -1,63 +1,131 @@
-Hello, I'm @KarthikeyatheDev 👋  
+# 👋 Hi, I'm @KarthikeyatheDev
 
-About Me  
+## About Me
 
-I'm a passionate and aspiring AI/ML enthusiast dedicated to exploring and building intelligent systems. My journey in technology is driven by a deep curiosity about how artificial intelligence can solve real-world problems and enhance human capabilities.
+I'm a Computer Science student passionate about building AI-powered applications and intelligent systems.
 
-Interests 👀  
+My primary interests lie in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and scalable AI architectures. I enjoy transforming AI concepts into practical applications by building projects that solve real-world problems.
 
-I'm particularly interested in Artificial Intelligence (AI) and Machine Learning (ML), with a keen eye on their practical applications and future advancements.
+I believe the best way to learn is by building. Most of my learning journey revolves around designing, developing, and deploying end-to-end AI systems while continuously improving my understanding of software engineering fundamentals.
 
-Fun Fact About me 🎉
+---
 
-I love to watch Anime, read manga , manhwa and manhua . I am about to venture into the world of Novels as well.
+## Current Focus
 
-Current Learning 🌱 
+* AI Engineering
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Agentic Workflows & Multi-Step Reasoning Systems
+* LangChain & LangGraph
+* Vector Databases
+* Computer Vision
+* Backend Development for AI Applications
 
-I'm currently expanding my expertise by diving deep into the fascinating world of Computer Vision, exploring techniques for image processing, object detection, and neural network architectures.
+---
 
-Collaboration & Networking 💞️  
+## What I'm Learning
 
-I'm actively looking for opportunities to collaborate on innovative AI/ML projects. Feel free to connect with me on LinkedIn or explore internship opportunities via Internshala.
+Currently exploring:
 
-Reach Me  
+* Production-ready RAG pipelines
+* AI Agent architectures
+* Evaluation and observability for AI systems
+* Context engineering and prompt optimization
+* Scalable backend systems for AI applications
 
-📫 You can reach me directly via:
+---
 
-Email: mkarthikeya122@gmail.com  
+## Collaboration
 
-Phone: +91-9392745443
+I'm always interested in collaborating on:
 
-Pronouns  
-😄 He/Him
+* AI Engineering projects
+* LLM-powered applications
+* RAG systems
+* Agent-based workflows
+* Open-source AI tools
 
-My Projects & Portfolio
-Here's a glimpse into some of my work:
+Feel free to connect and discuss ideas, projects, or opportunities.
 
-🌐 Website Project
-I have developed a web project that demonstrates my skills in "building responsive user interfaces" "creating interactive web applications". This project highlights my proficiency in HTML, CSS, JavaScript and React.
+---
 
-https://github.com/KarthikeyatheDev/Recom-Website
+## Featured Projects
 
-🧠 Machine Learning Notebooks (x2)
-My repositories also contain three distinct Machine Learning notebooks. These projects showcase my abilities in:
+### Legal RAG System
 
-Mental-Health-Classification: "Exploratory Data Analysis" , "Data Cleaning" and "Supervised Learning - Classification"
+Built an end-to-end Retrieval-Augmented Generation system for legal document search and question answering using vector embeddings and semantic retrieval techniques.
 
-https://github.com/KarthikeyatheDev/Mental-Health-Classification
+### AI & Machine Learning Projects
 
-House-Price-Prediction: "Implementing and Evaluating a Regression Model on a Real-World Dataset"
+* Mental Health Classification
+* House Price Prediction
+* Exploratory Data Analysis and Predictive Modeling Projects
 
-https://github.com/KarthikeyatheDev/House-price-prediction
+### Web Development Projects
 
-Each notebook provides detailed explanations, code implementations, and analysis of the results.
+Built responsive and interactive web applications using modern frontend technologies including React and JavaScript.
 
-Skills
+---
 
-Programming Languages: Python, Java, C, C++, Machine Learning, AI, Computer Vision, Deep Learning, Neural Networks etc.
+## Technical Skills
 
-Machine Learning Libraries: scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas, Matplotlib, Seaborn
+### Languages
 
-Web Technologies: HTML, CSS, JavaScript, React
+* Python
+* Java
+* C
+* C++
 
-Tools & Platforms: Git, GitHub, Jupyter Notebooks, Google Colab
+### AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Computer Vision
+* Natural Language Processing
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+
+### Frameworks & Libraries
+
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Keras
+* NumPy
+* Pandas
+* Matplotlib
+* LangChain
+* LangGraph
+
+### Web Development
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+### Databases & Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* Google Colab
+* Vector Databases
+* Docker
+
+---
+
+## Beyond Tech
+
+Outside of technology, I enjoy anime, manga, manhwa, and exploring stories across different mediums.
+
+---
+
+## Connect With Me
+
+📧 Email: **[mkarthikeya122@gmail.com](mailto:mkarthikeya122@gmail.com)**
+
+💼 LinkedIn: https://www.linkedin.com/in/karthikeya-m-48516a288/
+
+📍 Open to internships, collaborations, and AI engineering opportunities.
